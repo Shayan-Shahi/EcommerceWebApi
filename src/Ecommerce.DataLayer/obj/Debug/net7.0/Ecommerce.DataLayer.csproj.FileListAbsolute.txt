@@ -1,0 +1,15 @@
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\bin\Debug\net7.0\Ecommerce.DataLayer.deps.json
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\bin\Debug\net7.0\Ecommerce.DataLayer.dll
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\bin\Debug\net7.0\Ecommerce.DataLayer.pdb
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\bin\Debug\net7.0\Ecommerce.Entities.dll
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\bin\Debug\net7.0\Ecommerce.Entities.pdb
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.csproj.AssemblyReference.cache
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.AssemblyInfoInputs.cache
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.AssemblyInfo.cs
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.csproj.CopyComplete
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.dll
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\refint\Ecommerce.DataLayer.dll
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\Ecommerce.DataLayer.pdb
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.DataLayer\obj\Debug\net7.0\ref\Ecommerce.DataLayer.dll

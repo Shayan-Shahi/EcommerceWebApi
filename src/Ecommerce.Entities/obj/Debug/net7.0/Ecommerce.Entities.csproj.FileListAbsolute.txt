@@ -1,0 +1,12 @@
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\bin\Debug\net7.0\Ecommerce.Entities.deps.json
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\bin\Debug\net7.0\Ecommerce.Entities.dll
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\bin\Debug\net7.0\Ecommerce.Entities.pdb
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\Ecommerce.Entities.csproj.AssemblyReference.cache
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\Ecommerce.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\Ecommerce.Entities.AssemblyInfoInputs.cache
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\Ecommerce.Entities.AssemblyInfo.cs
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\Ecommerce.Entities.csproj.CoreCompileInputs.cache
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\Ecommerce.Entities.dll
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\refint\Ecommerce.Entities.dll
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\Ecommerce.Entities.pdb
+C:\Users\shaya\Desktop\Payam\PayamAPI\EcommerceWebApi\src\Ecommerce.Entities\obj\Debug\net7.0\ref\Ecommerce.Entities.dll

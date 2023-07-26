@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+   
+  </PropertyGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="MailKit" Version="2.15.0" />
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Ecommerce.DataLayer\Ecommerce.DataLayer.csproj" />
+	  <ProjectReference Include="..\Ecommerce.Entities\Ecommerce.Entities.csproj" />
+	  <ProjectReference Include="..\Ecommerce.ViewModels\Ecommerce.ViewModels.csproj" />
+	</ItemGroup>
+
+</Project>
